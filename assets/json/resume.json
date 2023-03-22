@@ -1,0 +1,282 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Kalki Rose",
+    "label": "Cloud and Data Expert | Technical Account Lead | Supervisor",
+    "picture": "./assets/images/resume_image.jpeg",
+    "email": "krose.development@gmail.com",
+    "phone": "+49 17 665 126 596",
+    "summary": "I AM SPARTICUS",
+    "url": "",
+    "location": {
+      "countryCode": "DE",
+      "address": "Munich - Germany"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "kalkirose",
+        "url": "https://www.linkedin.com/in/kalkirose/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Futurice",
+      "position": "Cloud and Data Platforms Expertise Lead ",
+      "startDate": "2021-01-31",
+      "endDate": "",
+      "highlights": ["Market Research", "Gap analysis", "Strategic Investment", "Center of Learning - Certification Program", "Cloud and Data Playbook", "Company Re-organisation", "Risk Analasys"],
+      "summary": "As part of the leadership team focused on emerging technologies and new market potential, my role was in the lead position of the Cloud and Data Platforms pillar. The outcomes of this initiative was to allocate strategic investment for new products and services, internal training, development of go-to-market solutions, and inform recruitment strategy. As part of this I co-developed the internal Cloud and Data certification program and the Cloud and Data playbook. \n\nIn addition to these core goals, Futurice also went through a restructuring/re-organisation. I was part of the leadership team that developed and implemented the new org structure, going from a matrix like structure, to something taking inspiration from Holacracy.  \n\n Key Responsibilities ",
+      "url": "https://www.linkedin.com/company/futurice/",
+      "location": "Germany"
+    },
+    {
+      "name": "Futurice",
+      "position": "Senior Cloud Architect",
+      "startDate": "2019-10-31",
+      "endDate": "",
+      "highlights": [],
+      "summary": "AWS Well Architected cloud architect with professional level certifications in Architecture, DevOps, and Data Analytics\n\nRequirements gathering, proposal writing, and developing architectures integrating with on-premise, cloud and hybrid cloud environments for multi million euro projects.\n\nArchitected a solution to integrate a system of 20 data sources across 5 departments using on premise, cloud and streaming data sources.\n\nMentoring and coaching internal and external technologists. Balancing security, costs optimization, operational excellence, reliability, and performance efficiency.",
+      "url": "https://www.linkedin.com/company/futurice/",
+      "location": "Munich Area, Germany"
+    },
+    {
+      "name": "Futurice",
+      "position": "Supervisor | Mentor | Coach",
+      "startDate": "2018-10-31",
+      "endDate": "",
+      "highlights": [],
+      "summary": "Supervisor for 6 people and mentor for three people. Coach internally and externally.\n\nCareer path development, career path review and salary recommendations using a servant leadership approach.\n\nBuild strong, open and trusting relationships.\n\nFacilitate mentoring, expertise coaching.\n\nCareer development, learning and performance. Short term and long term goal and expectation discovery.\n\nFostering an environment that encourages learning.\n\nWell-being with early caring, stress management and work safety.",
+      "url": "https://www.linkedin.com/company/futurice/",
+      "location": "Munich, Bavaria, Germany"
+    },
+    {
+      "name": "Futurice",
+      "position": "Technical Account Lead",
+      "startDate": "2018-11-30",
+      "endDate": "",
+      "highlights": [],
+      "summary": "Technical account lead for up to 6 cross functional teams and up to 30 people with a focus on AWS Cloud Architecture and data engineering. Focus on Digitisation, Cloud Migration and Adoption, and Innovation. This role encompassed both the creation and deplyment of cloud solutions, and fostering an environment to enable cultural change within an established automotive company",
+      "url": "https://www.linkedin.com/company/futurice/",
+      "location": "Munich Area, Germany"
+    },
+    {
+      "name": "Futurice",
+      "position": "Senior Software Engineer",
+      "startDate": "2018-02-28",
+      "endDate": "2019-10-31",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/futurice/",
+      "location": "Munich Area, Germany"
+    },
+    {
+      "name": "Amber Road",
+      "position": "Technical Consultant",
+      "startDate": "2017-01-31",
+      "endDate": "2018-02-28",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/amber-road/",
+      "location": "Munich Area, Germany"
+    },
+    {
+      "name": "Revelian",
+      "position": "Front End Engineer",
+      "startDate": "2016-02-28",
+      "endDate": "2016-10-31",
+      "highlights": [],
+      "summary": "After previously working for Revelian as a full time employee, I was rehired as a contractor for an eight month project to work on a set of twelve charts to fit within the company style guide. \n\nKey Technologies\n•\tAngular 1.5 (es6/es2015)\n•\tHighcharts.js\n•\tWebpack\n•\tSass\n•\tJasmine/Karma",
+      "url": "https://www.linkedin.com/company/criteria-corp/",
+      "location": "Freelancer"
+    },
+    {
+      "name": "JuniorCru",
+      "position": "Technical Lead",
+      "startDate": "2015-09-30",
+      "endDate": "2015-12-31",
+      "highlights": [],
+      "summary": "After previously working at CruDigital (which is now Ogilvy Brisbane), I was rehired as a contractor to take over and lead a three month project (lenards.com.au). The initial project was for a brochure ware website, which has since been updated into a full eCommerce site\n\nResponsibilities\n•\tProject handover\n•\tRequirements investigation\n•\tSpecification writing\n•\tClient meetings\n•\tTraining junior developer\n•\tDevelopment\n\nKey Technologies\n•\tAngular 1.5\n•\tWordPress\n•\tBootstrap 3\n•\tSass",
+      "url": "https://www.linkedin.com/company/juniorcru/",
+      "location": "Brisbane, Australia"
+    },
+    {
+      "name": "Onetest",
+      "position": "Front End Engineer",
+      "startDate": "2014-06-30",
+      "endDate": "2015-09-30",
+      "highlights": [],
+      "summary": "Revelian is a company that provides a suite of tools across the board for HR, talent acquisition, talent management, psychometrics, and communications analyses.\n\nDuring my time at Revelian I was involved in two major projects, rebuilding the legacy system and implementing a new video interviewing service. \n\nThe legacy Revelian system was thirteen years old and built in cold fusion. I was involved in architecting and rebuilding this system to fit with current technologies. Our implementation took inspiration from the Netflix API, modeling our new system as a set of microsystems.\n\nWe implemented a set of facades over these systems to expose specific functionality to specific consumers for both simplicity and security. The facade to service layers where implemented in as close to pure REST where possible, and the facade to external layers was endpoint specific. \n\nBy implementing an API in this manner we were able to both make the system future proof, as well as enabling the legacy system to integrate with the new system without crippling the new system. \n\nIn addition to the architecture migration, I was also lead on the creation of a new service to provide video interviewing to our clients. The application was developed to integrate seamlessly with the legacy platform while being built with the new architecture. It allows Revelian’s clients to set up one way video interviews for prospective employees, have multiple people review and rate each response, and make hire recommendations, which produced reports and had a rating system which fed back into the existing system for integration into the full suite of Revelian products and hiring process.\n\nThe system architecture is built with Java for the micro services and facades, and NodeJS and AngularJS serving the front end UI's. The infrastructure is all AWS, from S3 buckets for content storage, private zones, route53, cloud formation for deployment, security groups, load balancing etc.",
+      "url": "https://www.linkedin.com/company/criteria-corp/",
+      "location": "Stafford"
+    },
+    {
+      "name": "JuniorCru",
+      "position": "Technical Lead",
+      "startDate": "2013-11-30",
+      "endDate": "2014-06-30",
+      "highlights": [],
+      "summary": "Working at CruDigital, which then became JuniorCru, kick-started my career into world class development. Using bleeding edge technologies, working with a world class design team, and managed by Matthew Daniels, one of the best technical directors I have had the pleasure of working with, we produced work that I am truly proud of. \n\nInitially starting as a full stack developer, I was quickly promoted to the role of technical lead, and held this position for the remainder of my tenure. I was involved in the full software life-cycle, from initial meetings with clients through to deployment and maintenance.\n\nIn addition to my duties as a developer, as technical lead I was involved in system architecture, researching new technologies, project management, overseeing the team of developers working on my projects, and close relations with accounts services, designers, clients, and management. \n\n\nProjects\n\nCareers Australia:                     Technical Lead, Lead Developer\nVirgin Australia:                        Technical Lead, Developer\nOur Village Foundation:             Technical Lead, Lead Developer\nCorporate Real-estate Australia: Technical Lead, Developer\n\n\nPersonal Duties:\n\n\t-  Project Kick-off\n\t-  Requirement Gathering\n\t-  Estimation\n\t-  Proposal Writing\n\t-  Specification Writing\n\t-  Client Meetings\n\t-  System Architecture\n\t-  Working closely with designers\n\t-  Leading a team of developers\n\t-  Project Management - Agile Workflow\n\t-  Testing\n\t-  Deployment\n\t-  Maintenance\n\t-  Time Management\n        -  Technology Research\n        -  Wireframing\n        - SEO\n\n\nTechnologies of Interest:\n\n\t-  AngularJS\n\t-  Php\n\t-  Bespoke Wordpress\n\t-  Html5\n        -  CSS 3\n\t-  Grunt\n\t-  Less\n\t-  Jira / Confluence\n\t-  LAMP / WAMP\n\t-  Amazon Web Services (AWS)\n\t-  MySQL\n\t-  Photoshop\n        -  Facebook Integration\n        -  Responsive Design\n        -  Twitter Bootstrap  2/3\n        -  eCommerce Integration",
+      "url": "https://www.linkedin.com/company/juniorcru/"
+    },
+    {
+      "name": "Cru Digital",
+      "position": "Technical Lead",
+      "startDate": "2013-10-31",
+      "endDate": "2014-06-30",
+      "highlights": [],
+      "summary": "CruDigital merged with Junior to become JuniorCru. Please see the relevant section above for more details.",
+      "url": "https://www.linkedin.com/company/cru-digital/"
+    },
+    {
+      "name": "Kintek Web Devlopment",
+      "position": "Web Developer",
+      "startDate": "2011-03-31",
+      "endDate": "2013-08-31",
+      "highlights": [],
+      "summary": "Achievements and Duties\n\n-\tFull involvement in all aspects of the software development life-cycle. \n\n-\tWorked within a dynamic team to produce high quality bespoke responsive ecommerce and brochure-ware websites, along with custom built web applications, Facebook competitions and iOS applications for iPhone and iPad. \n\n-\tProject specification and scoping documentation, project management, client relationship building, development in all parts of the project, domain registration, host transfers, launching, quality control, and maintenance. \n\n-\tActing project manager for two months while the project manager was on leave.  Ran several large projects and maintained a number of ongoing projects. Scheduling, quality control and customer relations, invoicing. \n\n-\tAchieved “Best in Class” award for the 2012 Australian Mobile Awards for work on the Streaka iPad video platform.",
+      "url": "",
+      "location": "Brisbane Area, Australia"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Unusual Pioneers",
+      "position": "Mentor",
+      "startDate": "2021-05-31",
+      "endDate": "2021-08-31",
+      "summary": "Unusual Pioneers is a pioneering platform for corporate leaders and social intrapreneurs turning business into a force for good. We support the work of social intrapreneurs through mentoring, peer-to-peer support, and involvement of executives across industries. \n\nLearn more on unusualpioneers.com",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/68812206"
+    }
+  ],
+  "education": [
+    {
+      "institution": "The University of Queensland",
+      "area": "Computer Software Engineering",
+      "studyType": "Bachelor of Engineering (B.Eng.)",
+      "startDate": "2005-12-31",
+      "endDate": "2011-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Dean's Commendation for Academic Excellence",
+      "date": "2011-06-30",
+      "awarder": "Dean of Engineering",
+      "summary": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Amazon Web Services Solutions Architect - Professional",
+      "issuer": "Amazon Web Services (AWS)",
+      "endDate": "2023-12-31",
+      "startDate": "2020-12-31",
+      "url": "https://www.youracclaim.com/badges/f5f33c8c-4afc-4774-827b-82594ac48628/public_url"
+    },
+    {
+      "name": "Amazon Web Services DevOps Engineer - Professional",
+      "issuer": "Amazon Web Services (AWS)",
+      "endDate": "2024-01-31",
+      "startDate": "2021-01-31",
+      "url": "https://www.youracclaim.com/badges/26c0fce9-c76e-430b-826f-9615e627807c/public_url"
+    },
+    {
+      "name": "Amazon Web Services Data Analytics (formerly Big Data) Specialty",
+      "issuer": "Amazon Web Services (AWS)",
+      "endDate": "2023-06-30",
+      "startDate": "2020-06-30",
+      "url": "https://www.youracclaim.com/badges/741db73f-db15-4ce8-a1c8-23e411da66ae/public_url"
+    },
+    {
+      "name": "Amazon Web Services Developer - Associate",
+      "issuer": "Amazon Web Services (AWS)",
+      "endDate": "2023-04-30",
+      "startDate": "2020-04-30",
+      "url": "https://www.youracclaim.com/badges/9cabddf0-2e53-4c32-b873-dd586f3a6634/public_url"
+    },
+
+    {
+      "name": "Microsoft Azure Fundamentals - AZ-900",
+      "issuer": "Microsoft",
+      "endDate": "2023-04-30",
+      "startDate": "2020-04-30",
+      "url": "https://www.youracclaim.com/badges/753c035b-59c9-4196-aed2-eb7b9e7a597f/public_url"
+    },
+    {
+      "name": "Certified Scrum Product Owner (CSPO)",
+      "issuer": "Scrum.org",
+      "startDate": "2021-01-31",
+      "url": "https://www.scrum.org/badges/awards/633357"
+    },
+    {
+      "name": "Scrum Master Certified (SMC)",
+      "issuer": "Scrum.org",
+      "startDate": "2021-01-31",
+      "url": "https://www.scrum.org/badges/awards/633172"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Strategic Leadership",
+      "level": "",
+      "keywords": ["Recruitment", "OKR's", "Market/Gap Analasys", "Budgeting", "Risk Analasys", "Research", "Contract Negotiation"]
+    },
+    {
+      "name": "People Leadership",
+      "level": "",
+      "keywords": ["Servant Leadership", "Mentoring", "Superviser", "Coaching", "SMART Goals", "Empathy", "Consulting", "Conflict Resolution", "Culture Change", "Technical Consulting"]
+    },
+    {
+      "name": "Cloud Solutions | Data Engineering",
+      "level": "",
+      "keywords": ["AWS Professional", "Well Architected", "Big Data", "Data Engineering", "CCoE", "Hybrid Architectures", "Cloud Migration", "Security", "DevOps", "DevSecOps", "Automation", "Event Sourcing", "Distributed Systems", "API's'", "Optimisation", "Cloud Formation", "Terraform", "Cloud Native", "ElasticSearch", "DNS", "Redundancy", "Cloud Adoption", "Digitisation", "Digital Twins", "Embedded Systems", "Data Migration", "Data Aggregation", "Enterprise Architecture", "Cloud Architecture", "Cloud Platforms"]
+    },
+    {
+      "name": "Cloud Adoption",
+      "level": "",
+      "keywords": ["CCoE","Automation", "Cloud Adoption", "Innovation", "Digitisation", "Coaching", "Multi-disciplinary", "Digital Transformation"]
+    },
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": ["Agile", "Scrum", "Planning/Forcasting", "PO|SM", "MVP", "Requirements", "Specifications", "Cross Functional Teams", "Jira", "Confluence", "Expectation Management"]
+    },
+    {
+      "name": "Software Development",
+      "level": "",
+      "keywords": ["AWS", "Docker", "React", "Angular", "CSS|Less|Sass|CssInJs", "JavaSscript", "TypeScript", "PHP", "Test Automation", "Security", "SSO", "Java", "Database Management", "SQL", "NoSQL", "Git", "WebPack", "Full Stack Architecture", "API Development", ".Stack Overflow!" ]
+    },
+    {
+      "name": "Industries",
+      "level": "",
+      "keywords": ["E-commerce", "Automotive", "Health Care", "Supply Chain Logisitcs", "Psychometrics", "Recruitment"]
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "Native Speaker",
+      "language": "English"
+    },
+    {
+      "fluency": "Limited Working",
+      "language": "German"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "👩‍💻 Leilei Ouyang 🐘",
+      "reference": "Kalki has been an encouraging, inspiring and empathetic supervisor during my time at Futurice. He encourages me to learn and experiment with different technologies, inspires me to expand my skill set and take on new challenges, and provides me valuable guidance on career progression. \n\nKalki possesses a humble and participative leadership style through active listening, comprehensive analysis, constructive escalation and productive problem-solving which make him an empathetic leader as well as an outstanding team player."
+    }
+  ],
+  "projects": [
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
