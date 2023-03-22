@@ -11,10 +11,13 @@ const fs = require('fs');
 const resume = JSON.parse(fs.readFileSync('./assets/json/resume.json', 'utf8'));
 const theme = require('./index.js');
 const path = require('path');
+const { workerData } = require('worker_threads');
 
 const PORT = 8887;
 
 http.createServer(function(req, res) {
+
+    path.join(process.cwd(), 'assets');
     const picture = resume.basics.picture && resume.basics.picture.replace(/^\//, '');
 
     if (picture && req.url.replace(/^\//, '') === picture.replace(/^.\//, '')) {
@@ -37,7 +40,7 @@ http.createServer(function(req, res) {
         res.writeHead(200, {
             'Content-Type': 'text/html'
         });
-        res.end(render());
+        res.end(render());workerData
     }
 }).listen(PORT);
 
