@@ -6,7 +6,7 @@
     "picture": "./assets/images/resume_image.jpeg",
     "email": "krose.development@gmail.com",
     "phone": "+49 17 665 126 596",
-    "summary": "I AM SPARTICUS",
+    "summary": "My first computer used those 5 1/4' floppy disks. You know the ones that were actually bendy.\n\nOver the last 20 years of learning and professional work, I have had the pleasure to work with some amazing people, and I bring all that I have learnt into every new role.\n\nMost recently I have been working as a supervisor/manager and nothing has given me more fullfilment in my career than supporting those I work with and seeing them evolve. I was also part of the leadership team responsible for strategy, investment, and innovation, and driving forward the adoption of cloud and data platforms.\n\nAs a wise person I worked with once said, at the core all problems are people problems.\n\nI am a life long learner, both in technology and life, and recently became a certified scuba diving instructor!\n\nMy favourite flavour of ice-cream is pistachio.",
     "url": "",
     "location": {
       "countryCode": "DE",
@@ -27,7 +27,7 @@
       "startDate": "2021-01-31",
       "endDate": "",
       "highlights": ["Market Research", "Gap analysis", "Strategic Investment", "Center of Learning - Certification Program", "Cloud and Data Playbook", "Company Re-organisation", "Risk Analasys"],
-      "summary": "As part of the leadership team focused on emerging technologies and new market potential, my role was in the lead position of the Cloud and Data Platforms pillar. The outcomes of this initiative was to allocate strategic investment for new products and services, internal training, development of go-to-market solutions, and inform recruitment strategy. As part of this I co-developed the internal Cloud and Data certification program and the Cloud and Data playbook. \n\nIn addition to these core goals, Futurice also went through a restructuring/re-organisation. I was part of the leadership team that developed and implemented the new org structure, going from a matrix like structure, to something taking inspiration from Holacracy.  \n\n Key Responsibilities ",
+      "summary": "As part of the leadership team focused on emerging technologies and new market potential, my role was in the lead position of the Cloud and Data Platforms pillar. The outcomes of this initiative was to allocate strategic investment for new products and services, internal training, development of go-to-market solutions, and inform recruitment strategy. As part of this I co-developed the internal Cloud and Data certification program and the Cloud and Data playbook.\n\nIn addition to these core goals, Futurice also went through a restructuring/re-organisation. I was part of the leadership team that developed and implemented the new org structure, going from a matrix like structure, to something taking inspiration from Holacracy.\n\nKey Highlights ",
       "url": "https://www.linkedin.com/company/futurice/",
       "location": "Germany"
     },
@@ -36,8 +36,8 @@
       "position": "Senior Cloud Architect",
       "startDate": "2019-10-31",
       "endDate": "",
-      "highlights": [],
-      "summary": "AWS Well Architected cloud architect with professional level certifications in Architecture, DevOps, and Data Analytics\n\nRequirements gathering, proposal writing, and developing architectures integrating with on-premise, cloud and hybrid cloud environments for multi million euro projects.\n\nArchitected a solution to integrate a system of 20 data sources across 5 departments using on premise, cloud and streaming data sources.\n\nMentoring and coaching internal and external technologists. Balancing security, costs optimization, operational excellence, reliability, and performance efficiency.",
+      "highlights": ["Security", "Cost Optimisation", "Operational Excelence", "Cloud Migration", "Reliability", "Long Term Planning", "AWS Cloud Architecture", "Data Engineering", "Integration", "API Development", "Cloud Native"],
+      "summary": "As a senior cloud architect at Futurice, I worked with an major automotive company on their digital journey.\n\nCombined with my role as a technical account lead, I supported 6 teams and up to 30 people driving innovation through digitisation.\n\nThe projects ranged from developing an over the air update protocol for the vehicle onboard entertainment system, aggregating data from on-premise, cloud, and streaming vehicle data into an AWS analytics platform, to coaching technologists on cloud infrastructure and driving cultural change and technology adoption, in direct collaboration with enterpise architects.\n\nThese projects were projected to go from six months to ten years, with an investment in the tens to hundreds of millions of euros\n\n Key Highlights",
       "url": "https://www.linkedin.com/company/futurice/",
       "location": "Munich Area, Germany"
     },
@@ -46,8 +46,8 @@
       "position": "Supervisor | Mentor | Coach",
       "startDate": "2018-10-31",
       "endDate": "",
-      "highlights": [],
-      "summary": "Supervisor for 6 people and mentor for three people. Coach internally and externally.\n\nCareer path development, career path review and salary recommendations using a servant leadership approach.\n\nBuild strong, open and trusting relationships.\n\nFacilitate mentoring, expertise coaching.\n\nCareer development, learning and performance. Short term and long term goal and expectation discovery.\n\nFostering an environment that encourages learning.\n\nWell-being with early caring, stress management and work safety.",
+      "highlights": ["Caring", "Trust", "Empathy", "Salary", "Career Path Planning", "SMART Goal Setting", "Stress Management"],
+      "summary": "As a supervisor at Futurice, I oversaw six direct reports ranging from junior to senior positions.\n\nSupporting my supervisees, helping them to discover their goals, devloping a career path plan, and then watching them evolve and develop over time has been one of the most fullfilling parts of my career so far.\n\nUsing a servant leadership style, I was there as a person to rely on when needed, to give advice and support, and to challenge ideas and perspectives.\n\nThrough both training and application, I was responsible for early caring and well-being of my supervisees, stress management and work safety.\n\nI was also responsible for recommendations in career level and salary changes.\n\nI played a role as a mentor for non-direct reports, which was a combination of technical expertise and well-being/stress management.\n\nLastly I was a technical coach, delivering seminars to clients on AWS cloud technologies, and internal trainings on a variety of technologies.\n\n Key Highlights",
       "url": "https://www.linkedin.com/company/futurice/",
       "location": "Munich, Bavaria, Germany"
     },
@@ -56,17 +56,18 @@
       "position": "Technical Account Lead",
       "startDate": "2018-11-30",
       "endDate": "",
-      "highlights": [],
-      "summary": "Technical account lead for up to 6 cross functional teams and up to 30 people with a focus on AWS Cloud Architecture and data engineering. Focus on Digitisation, Cloud Migration and Adoption, and Innovation. This role encompassed both the creation and deplyment of cloud solutions, and fostering an environment to enable cultural change within an established automotive company",
+      "highlights": ["Account Management", "People Management", "Staffing", "Contract Negotiation", "Forecasting", "Cross Functional Teams", "Client Relationship", "Agile Project Management", "Conflict Resolution"],
+      "summary": "As a technical account lead for a leading automotive company, I was responsible for the overall account, as well as the success of our projects.\n\nAt the account level, I was responsible for contract negotiation, forecasting, requirements gathering, proposals writing, staffing, and building a trusting relationship with the client.\n\nOn the project level, I oversaw 6 cross functional teams of technologists, designers, and data engineers with up to 30 people. I was responsbible for team health, conflict resolution, project kickstarting, sharing of knowledge accross the teams, as well as driving technology, innovation, and cultural change.\n\nI played a role as project manager in several projects, as well as cloud architect in several projects.\n\nKey Highlights",
       "url": "https://www.linkedin.com/company/futurice/",
       "location": "Munich Area, Germany"
     },
     {
       "name": "Futurice",
-      "position": "Senior Software Engineer",
+      "position": "Lead Developer",
       "startDate": "2018-02-28",
       "endDate": "2019-10-31",
       "highlights": [],
+      "summary": "",
       "url": "https://www.linkedin.com/company/futurice/",
       "location": "Munich Area, Germany"
     },
@@ -259,11 +260,11 @@
   "languages": [
     {
       "fluency": "Native Speaker",
-      "language": "English"
+      "language": "English - Native"
     },
     {
       "fluency": "Limited Working",
-      "language": "German"
+      "language": "German - Limited"
     }
   ],
   "interests": [],
