@@ -26,8 +26,13 @@
       "position": "Cloud and Data Platforms Expertise Lead ",
       "startDate": "2021-01-31",
       "endDate": "",
-      "highlights": ["Market Research", "Gap analysis", "Strategic Investment", "Center of Learning - Certification Program", "Cloud and Data Playbook", "Company Re-organisation", "Risk Analasys"],
-      "summary": "As part of the leadership team focused on emerging technologies and new market potential, my role was in the lead position of the Cloud and Data Platforms pillar. The outcomes of this initiative was to allocate strategic investment for new products and services, internal training, development of go-to-market solutions, and inform recruitment strategy. As part of this I co-developed the internal Cloud and Data certification program and the Cloud and Data playbook.\n\nIn addition to these core goals, Futurice also went through a restructuring/re-organisation. I was part of the leadership team that developed and implemented the new org structure, going from a matrix like structure, to something taking inspiration from Holacracy.\n\nKey Highlights ",
+      "highlights": [
+        "Co-development of the internal cloud and data playbook.",
+        "Co-development of the internal center for learning cloud and data certification program.",
+        "Market Research, Gap Analasys, and Risk Analasys for emerging technologies leading to strategic investment in go-to-market products and services, internal upskilling, and recruitment strategy.",
+        "Part of the leadership team supporting the company re-organisation from a matrix structure to something similar to Holacracy"
+      ],
+      "summary": "Futurice had five pillars that were the foundation of our company structure, as well as our go-to-market strategy. I was the lead for the Cloud and Data Platforms pillar.",
       "url": "https://www.linkedin.com/company/futurice/",
       "location": "Germany"
     },
@@ -36,8 +41,16 @@
       "position": "Senior Cloud Architect",
       "startDate": "2019-10-31",
       "endDate": "",
-      "highlights": ["Security", "Cost Optimisation", "Operational Excelence", "Cloud Migration", "Reliability", "Long Term Planning", "AWS Cloud Architecture", "Data Engineering", "Integration", "API Development", "Cloud Native"],
-      "summary": "As a senior cloud architect at Futurice, I worked with an major automotive company on their digital journey.\n\nCombined with my role as a technical account lead, I supported 6 teams and up to 30 people driving innovation through digitisation.\n\nThe projects ranged from developing an over the air update protocol for the vehicle onboard entertainment system, aggregating data from on-premise, cloud, and streaming vehicle data into an AWS analytics platform, to coaching technologists on cloud infrastructure and driving cultural change and technology adoption, in direct collaboration with enterpise architects.\n\nThese projects were projected to go from six months to ten years, with an investment in the tens to hundreds of millions of euros\n\n Key Highlights",
+      "highlights": [
+        "Used a data mesh approach to develop an architecture to aggregate 20 disparate data scources from on-premise, cloud storage, and streaming over the air sources to enable data analytics to feed insights to R&D, Sales, Engineering, and Marketing. A key focus was put on cost, security, and reliability.",
+        "Developed and ran a series of classes to upskill client technical engineers in cloud and data best practices.",
+        "Developed and ran a series of classes to upskill internal technologists in cloud and data best practices.",
+        "Supported 30 people across 6 cross functional teams of developers, designers, and data scientists as a cloud architect with projects ranging from tens to hundreds of miollions of euros.",
+        "Developed an architecture for a digital onboard vehicle instruction manual.",
+        "Worked in a team documenting reusable cloud architecture components for internal project use.",
+        "Worked with client to bring a cultural shift towards cloud and data solutions in a primarily physical automotive company."
+      ],
+      "summary": "As a senior cloud architect I was focused primarily in AWS, supporting both our internal initiatives as well as supporting our clients in their migration to cloud technologies, both at a technical level and at a cultural level.\n\n\n Key Highlights",
       "url": "https://www.linkedin.com/company/futurice/",
       "location": "Munich Area, Germany"
     },
@@ -46,8 +59,14 @@
       "position": "Supervisor | Mentor | Coach",
       "startDate": "2018-10-31",
       "endDate": "",
-      "highlights": ["Caring", "Trust", "Empathy", "Salary", "Career Path Planning", "SMART Goal Setting", "Stress Management"],
-      "summary": "As a supervisor at Futurice, I oversaw six direct reports ranging from junior to senior positions.\n\nSupporting my supervisees, helping them to discover their goals, devloping a career path plan, and then watching them evolve and develop over time has been one of the most fullfilling parts of my career so far.\n\nUsing a servant leadership style, I was there as a person to rely on when needed, to give advice and support, and to challenge ideas and perspectives.\n\nThrough both training and application, I was responsible for early caring and well-being of my supervisees, stress management and work safety.\n\nI was also responsible for recommendations in career level and salary changes.\n\nI played a role as a mentor for non-direct reports, which was a combination of technical expertise and well-being/stress management.\n\nLastly I was a technical coach, delivering seminars to clients on AWS cloud technologies, and internal trainings on a variety of technologies.\n\n Key Highlights",
+      "highlights": [
+        "Supervisor for 6 technologists and data scientists up to expert level, mentor for 3 technologists.",
+        "Supported supervisees in career path planning and short term and long term SMART goals.",
+        "Responsible for recommendations for career advancment of my own supervisees and part of the descision comittee for career level changes for all employees in Germany.",
+        "Applied servant leadership to support my supervisees on a daily basis, for advice, challenging ideas, and conflict resolution.",
+        "Responsible for early caring, well-being, stress management, and work saftey for my supervisees."
+      ],
+      "summary": "As a supervisor at Futurice, a core part of my philosophy was to build trusting and caring relationships.\n\nI love feedback and am continually adapting and evolving my approach so as best to meet the needs of each of the individuals that I oversee. Being able to support my supervisees and see them evolve and progress in their careers has been one of the most fullfilling experiences I have had so far.",
       "url": "https://www.linkedin.com/company/futurice/",
       "location": "Munich, Bavaria, Germany"
     },
@@ -56,8 +75,17 @@
       "position": "Technical Account Lead",
       "startDate": "2018-11-30",
       "endDate": "",
-      "highlights": ["Account Management", "People Management", "Staffing", "Contract Negotiation", "Forecasting", "Cross Functional Teams", "Client Relationship", "Agile Project Management", "Conflict Resolution"],
-      "summary": "As a technical account lead for a leading automotive company, I was responsible for the overall account, as well as the success of our projects.\n\nAt the account level, I was responsible for contract negotiation, forecasting, requirements gathering, proposals writing, staffing, and building a trusting relationship with the client.\n\nOn the project level, I oversaw 6 cross functional teams of technologists, designers, and data engineers with up to 30 people. I was responsbible for team health, conflict resolution, project kickstarting, sharing of knowledge accross the teams, as well as driving technology, innovation, and cultural change.\n\nI played a role as project manager in several projects, as well as cloud architect in several projects.\n\nKey Highlights",
+      "highlights": [
+        "Setting of account OKR's in line with country and global OKR's",
+        "Oversaw up to 30 people working in six concurrent agile teams.",
+        "Responsible for project budgeting, forecasting, burn downs, project health, and overall project delivery and success.",
+        "Responsible for project discovery, requirements gathering, proposal writing, pitching, estimations, and contract negotiation.",
+        "Participated in all project kickoffs, and remained as a technical cloud expert across all projects.",
+        "First line of escalation for conflict resolution.",
+        "Supported client initiatives for driving cultural change in the direction of innovation and emerging technologies.", 
+        "Responsible for onboarding new project teams with a specific focus on account and security requirements and best practices."
+      ],
+      "summary": "I was the technical account lead for one of our major accounts with a leading automotive company. This role was focused on client relationship building, as well as supporting our teams on a technical level as well as a well-being level.",
       "url": "https://www.linkedin.com/company/futurice/",
       "location": "Munich Area, Germany"
     },
@@ -66,8 +94,18 @@
       "position": "Lead Developer",
       "startDate": "2018-02-28",
       "endDate": "2019-10-31",
-      "highlights": [],
-      "summary": "",
+      "highlights": [
+        "Developed the core backend system based on the Hexagonal paradigm and a microservice architecture.",
+        "Developed the message queue microservices for doing event driven processing.",
+        "Wrote re-usable components for all parts of the system.",
+        "Wrote and deployed docker files for many of the services.",
+        "Primary point of contact for the client PO in collaboration with our internal Scrum Master.",
+        "Facilitated group estimation using party poker.",
+        "Facilitated group discovery and creation of development tasks.",
+        "Configured Jira to fit our exact project requirements in a cross functional team, with multiple boards and multiple board types, across three horizons of deliver (sprints, short term, long term).",
+        "Coached the developer below me over 6 motnhs to take over my role"
+      ],
+      "summary": "I was lead developer for a multi-year multi-million euro project for a leading automotive company.\nThe core technology stack was React and Typescript on the front end, GraphQL for the front end API layer, REST for the backend API layer, NodeJs for the core backend services, and Clojure for some of the additional microservices used to load Java data analytics libraries. Testing was done with Jest and Cypress, and the entire system was deployed using Docker and Openshift (RedHat K8s).",
       "url": "https://www.linkedin.com/company/futurice/",
       "location": "Munich Area, Germany"
     },
@@ -76,65 +114,52 @@
       "position": "Technical Consultant",
       "startDate": "2017-01-31",
       "endDate": "2018-02-28",
-      "highlights": [],
+      "highlights": [
+        "Requirements gathering and proposal writing",
+        "Implementing custom client changes to core software",
+        "Environment initialisation, onsite deployment, and client training",
+        "Training new staff members"      
+      ],
+      "summary": "Amber road built software to support multi-national companies with supply chain logisitics, import/export tarrifs, restricted screen lists, and product management.",
       "url": "https://www.linkedin.com/company/amber-road/",
       "location": "Munich Area, Germany"
     },
     {
       "name": "Revelian",
       "position": "Front End Engineer",
-      "startDate": "2016-02-28",
-      "endDate": "2016-10-31",
-      "highlights": [],
-      "summary": "After previously working for Revelian as a full time employee, I was rehired as a contractor for an eight month project to work on a set of twelve charts to fit within the company style guide. \n\nKey Technologies\n•\tAngular 1.5 (es6/es2015)\n•\tHighcharts.js\n•\tWebpack\n•\tSass\n•\tJasmine/Karma",
-      "url": "https://www.linkedin.com/company/criteria-corp/",
-      "location": "Freelancer"
-    },
-    {
-      "name": "JuniorCru",
-      "position": "Technical Lead",
-      "startDate": "2015-09-30",
-      "endDate": "2015-12-31",
-      "highlights": [],
-      "summary": "After previously working at CruDigital (which is now Ogilvy Brisbane), I was rehired as a contractor to take over and lead a three month project (lenards.com.au). The initial project was for a brochure ware website, which has since been updated into a full eCommerce site\n\nResponsibilities\n•\tProject handover\n•\tRequirements investigation\n•\tSpecification writing\n•\tClient meetings\n•\tTraining junior developer\n•\tDevelopment\n\nKey Technologies\n•\tAngular 1.5\n•\tWordPress\n•\tBootstrap 3\n•\tSass",
-      "url": "https://www.linkedin.com/company/juniorcru/",
-      "location": "Brisbane, Australia"
-    },
-    {
-      "name": "Onetest",
-      "position": "Front End Engineer",
       "startDate": "2014-06-30",
-      "endDate": "2015-09-30",
-      "highlights": [],
-      "summary": "Revelian is a company that provides a suite of tools across the board for HR, talent acquisition, talent management, psychometrics, and communications analyses.\n\nDuring my time at Revelian I was involved in two major projects, rebuilding the legacy system and implementing a new video interviewing service. \n\nThe legacy Revelian system was thirteen years old and built in cold fusion. I was involved in architecting and rebuilding this system to fit with current technologies. Our implementation took inspiration from the Netflix API, modeling our new system as a set of microsystems.\n\nWe implemented a set of facades over these systems to expose specific functionality to specific consumers for both simplicity and security. The facade to service layers where implemented in as close to pure REST where possible, and the facade to external layers was endpoint specific. \n\nBy implementing an API in this manner we were able to both make the system future proof, as well as enabling the legacy system to integrate with the new system without crippling the new system. \n\nIn addition to the architecture migration, I was also lead on the creation of a new service to provide video interviewing to our clients. The application was developed to integrate seamlessly with the legacy platform while being built with the new architecture. It allows Revelian’s clients to set up one way video interviews for prospective employees, have multiple people review and rate each response, and make hire recommendations, which produced reports and had a rating system which fed back into the existing system for integration into the full suite of Revelian products and hiring process.\n\nThe system architecture is built with Java for the micro services and facades, and NodeJS and AngularJS serving the front end UI's. The infrastructure is all AWS, from S3 buckets for content storage, private zones, route53, cloud formation for deployment, security groups, load balancing etc.",
+      "endDate": "2016-10-31",
+      "highlights": [
+        "Developed the front end for a new video conferencing software using AngularJS and Flash and Twitter Bootstrap",
+        "Supported the migration from the legacy Cold Fusion tech stack into a modern Java based micro-services architecture hosted on AWS."
+      ],
+      "summary": "Revelian developed solutions to assist in talent aquisition, with a focus on psychometrics. These came in the form of assessments, quiz's, skill checklists, and interactive games.",
       "url": "https://www.linkedin.com/company/criteria-corp/",
       "location": "Stafford"
     },
     {
       "name": "JuniorCru",
       "position": "Technical Lead",
-      "startDate": "2013-11-30",
-      "endDate": "2014-06-30",
-      "highlights": [],
-      "summary": "Working at CruDigital, which then became JuniorCru, kick-started my career into world class development. Using bleeding edge technologies, working with a world class design team, and managed by Matthew Daniels, one of the best technical directors I have had the pleasure of working with, we produced work that I am truly proud of. \n\nInitially starting as a full stack developer, I was quickly promoted to the role of technical lead, and held this position for the remainder of my tenure. I was involved in the full software life-cycle, from initial meetings with clients through to deployment and maintenance.\n\nIn addition to my duties as a developer, as technical lead I was involved in system architecture, researching new technologies, project management, overseeing the team of developers working on my projects, and close relations with accounts services, designers, clients, and management. \n\n\nProjects\n\nCareers Australia:                     Technical Lead, Lead Developer\nVirgin Australia:                        Technical Lead, Developer\nOur Village Foundation:             Technical Lead, Lead Developer\nCorporate Real-estate Australia: Technical Lead, Developer\n\n\nPersonal Duties:\n\n\t-  Project Kick-off\n\t-  Requirement Gathering\n\t-  Estimation\n\t-  Proposal Writing\n\t-  Specification Writing\n\t-  Client Meetings\n\t-  System Architecture\n\t-  Working closely with designers\n\t-  Leading a team of developers\n\t-  Project Management - Agile Workflow\n\t-  Testing\n\t-  Deployment\n\t-  Maintenance\n\t-  Time Management\n        -  Technology Research\n        -  Wireframing\n        - SEO\n\n\nTechnologies of Interest:\n\n\t-  AngularJS\n\t-  Php\n\t-  Bespoke Wordpress\n\t-  Html5\n        -  CSS 3\n\t-  Grunt\n\t-  Less\n\t-  Jira / Confluence\n\t-  LAMP / WAMP\n\t-  Amazon Web Services (AWS)\n\t-  MySQL\n\t-  Photoshop\n        -  Facebook Integration\n        -  Responsive Design\n        -  Twitter Bootstrap  2/3\n        -  eCommerce Integration",
-      "url": "https://www.linkedin.com/company/juniorcru/"
-    },
-    {
-      "name": "Cru Digital",
-      "position": "Technical Lead",
       "startDate": "2013-10-31",
       "endDate": "2014-06-30",
-      "highlights": [],
-      "summary": "CruDigital merged with Junior to become JuniorCru. Please see the relevant section above for more details.",
-      "url": "https://www.linkedin.com/company/cru-digital/"
+      "highlights": [
+        "Responsible for requirements gathering, proposal writing, estimation, project management and delivery.",
+        "Responsible for full project lifecycle. Development, testing, deployment, and maintenance",
+        "Tech lead and lead developer for projects with Virgin Australia, Cororate Realestate Australia, Careers Australia, and a number of smaller initiatives."
+      ],
+      "summary": "JuniorCru was a web development consultancy primarily in the field of eCommerce and brochure ware websites.\nThe core tech stack was PHP with Wordpress, AngularJS, Less, AWS, MySQL, with Jira and Confluence for project management. \n",
+      "url": "https://www.linkedin.com/company/juniorcru/"
     },
     {
       "name": "Kintek Web Devlopment",
       "position": "Web Developer",
       "startDate": "2011-03-31",
       "endDate": "2013-08-31",
-      "highlights": [],
-      "summary": "Achievements and Duties\n\n-\tFull involvement in all aspects of the software development life-cycle. \n\n-\tWorked within a dynamic team to produce high quality bespoke responsive ecommerce and brochure-ware websites, along with custom built web applications, Facebook competitions and iOS applications for iPhone and iPad. \n\n-\tProject specification and scoping documentation, project management, client relationship building, development in all parts of the project, domain registration, host transfers, launching, quality control, and maintenance. \n\n-\tActing project manager for two months while the project manager was on leave.  Ran several large projects and maintained a number of ongoing projects. Scheduling, quality control and customer relations, invoicing. \n\n-\tAchieved “Best in Class” award for the 2012 Australian Mobile Awards for work on the Streaka iPad video platform.",
+      "highlights": [
+        "Responsible for project specification, scoping, documentation and management",
+        "Full project lifecycle: development, domain registration, deployment, testing, maintenance"
+      ],
+      "summary": "Kintek was a small family run web development agency focused on developing bespoke eCommerce solutions, web applications, and mobile applications.",
       "url": "",
       "location": "Brisbane Area, Australia"
     }
@@ -234,7 +259,7 @@
     {
       "name": "Cloud Solutions | Data Engineering",
       "level": "",
-      "keywords": ["AWS Professional", "Well Architected", "Big Data", "Data Engineering", "CCoE", "Hybrid Architectures", "Cloud Migration", "Security", "DevOps", "DevSecOps", "Automation", "Event Sourcing", "Distributed Systems", "API's'", "Optimisation", "Cloud Formation", "Terraform", "Cloud Native", "ElasticSearch", "DNS", "Redundancy", "Cloud Adoption", "Digitisation", "Digital Twins", "Embedded Systems", "Data Migration", "Data Aggregation", "Enterprise Architecture", "Cloud Architecture", "Cloud Platforms"]
+      "keywords": ["AWS Professional", "Well Architected", "Big Data", "Data Engineering", "CCoE", "Hybrid Architectures", "Cloud Migration", "Security", "DevOps", "DevSecOps", "Automation", "Event Sourcing", "Distributed Systems", "API's'", "Optimisation", "Cloud Formation", "Terraform", "Cloud Native", "ElasticSearch", "DNS", "Redundancy", "Cloud Adoption", "Digitisation", "Digital Twins", "Embedded Systems", "Data Migration", "Data Aggregation", "Enterprise Architecture", "Cloud Architecture", "Cloud Platforms", "Data Mesh"]
     },
     {
       "name": "Cloud Adoption",
@@ -249,7 +274,7 @@
     {
       "name": "Software Development",
       "level": "",
-      "keywords": ["AWS", "Docker", "React", "Angular", "CSS|Less|Sass|CssInJs", "JavaSscript", "TypeScript", "PHP", "Test Automation", "Security", "SSO", "Java", "Database Management", "SQL", "NoSQL", "Git", "WebPack", "Full Stack Architecture", "API Development", ".Stack Overflow!" ]
+      "keywords": ["AWS", "Docker", "React", "Angular", "CSS|Less|Sass|CssInJs", "JavaSscript", "TypeScript", "PHP", "Test Automation", "Security", "SSO", "Java", "Database Management", "SQL", "NoSQL", "Git", "WebPack", "Full Stack Architecture", "API Development", ".Stack Overflow!", "GraphQL", "Jest" ]
     },
     {
       "name": "Industries",
@@ -267,7 +292,27 @@
       "language": "German - Limited"
     }
   ],
-  "interests": [],
+  "interests": [
+    {
+    "name": "Active",
+    "keywords": [
+      "Surfing",
+      "Snowboarding",
+      "Scuba Diving",
+      "Hiking"
+    ]
+    },
+    {
+      "name": "Tech",
+      "keywords": [
+        "Cloud Technology",
+        "Communication",
+        "Leadership",
+        "Gaming",
+        "Reading"
+      ]
+    }
+  ],
   "references": [
     {
       "name": "👩‍💻 Leilei Ouyang 🐘",
