@@ -39,13 +39,13 @@
     {
       "name": "Futurice",
       "position": "Senior Cloud Architect",
-      "startDate": "2019-10-31",
+      "startDate": "2021-01-01",
       "endDate": "",
       "highlights": [
         "Used a data mesh approach to develop an architecture to aggregate 20 disparate data scources from on-premise, cloud storage, and streaming over the air sources to enable data analytics to feed insights to R&D, Sales, Engineering, and Marketing. A key focus was put on cost, security, and reliability.",
         "Developed and ran a series of classes to upskill client technical engineers in cloud and data best practices.",
         "Developed and ran a series of classes to upskill internal technologists in cloud and data best practices.",
-        "Supported 30 people across 6 cross functional teams of developers, designers, and data scientists as a cloud architect with projects ranging from tens to hundreds of miollions of euros.",
+        "Supported 30 people across 6 cross functional teams of developers, designers, and data scientists as a cloud architect with projects ranging from tens to hundreds of millions of euros.",
         "Developed an architecture for a digital onboard vehicle instruction manual.",
         "Worked in a team documenting reusable cloud architecture components for internal project use.",
         "Worked with client to bring a cultural shift towards cloud and data solutions in a primarily physical automotive company."
@@ -62,7 +62,7 @@
       "highlights": [
         "Supervisor for 6 technologists and data scientists up to expert level, mentor for 3 technologists.",
         "Supported supervisees in career path planning and short term and long term SMART goals.",
-        "Responsible for recommendations for career advancment of my own supervisees and part of the descision comittee for career level changes for all employees in Germany.",
+        "Responsible for recommendations for career advancement of my own supervisees and part of the descision comittee for career level changes for all employees in Germany.",
         "Applied servant leadership to support my supervisees on a daily basis, for advice, challenging ideas, and conflict resolution.",
         "Responsible for early caring, well-being, stress management, and work saftey for my supervisees."
       ],
@@ -73,7 +73,7 @@
     {
       "name": "Futurice",
       "position": "Technical Account Lead",
-      "startDate": "2018-11-30",
+      "startDate": "2020-01-01",
       "endDate": "",
       "highlights": [
         "Setting of account OKR's in line with country and global OKR's",
@@ -102,8 +102,8 @@
         "Primary point of contact for the client PO in collaboration with our internal Scrum Master.",
         "Facilitated group estimation using party poker.",
         "Facilitated group discovery and creation of development tasks.",
-        "Configured Jira to fit our exact project requirements in a cross functional team, with multiple boards and multiple board types, across three horizons of deliver (sprints, short term, long term).",
-        "Coached the developer below me over 6 motnhs to take over my role"
+        "Configured Jira to fit our exact project requirements in a cross functional team, with multiple boards and multiple board types, across three horizons of delivery (sprints, short term, long term).",
+        "Coached the developer below me over 6 months to take over my role"
       ],
       "summary": "I was lead developer for a multi-year multi-million euro project for a leading automotive company.\nThe core technology stack was React and Typescript on the front end, GraphQL for the front end API layer, REST for the backend API layer, NodeJs for the core backend services, and Clojure for some of the additional microservices used to load Java data analytics libraries. Testing was done with Jest and Cypress, and the entire system was deployed using Docker and Openshift (RedHat K8s).",
       "url": "https://www.linkedin.com/company/futurice/",
@@ -130,7 +130,7 @@
       "startDate": "2014-06-30",
       "endDate": "2016-10-31",
       "highlights": [
-        "Developed the front end for a new video conferencing software using AngularJS and Flash and Twitter Bootstrap",
+        "Developed the front end for a new video conferencing software using AngularJS, Flash and Twitter Bootstrap",
         "Supported the migration from the legacy Cold Fusion tech stack into a modern Java based micro-services architecture hosted on AWS."
       ],
       "summary": "Revelian developed solutions to assist in talent aquisition, with a focus on psychometrics. These came in the form of assessments, quiz's, skill checklists, and interactive games.",
@@ -145,9 +145,9 @@
       "highlights": [
         "Responsible for requirements gathering, proposal writing, estimation, project management and delivery.",
         "Responsible for full project lifecycle. Development, testing, deployment, and maintenance",
-        "Tech lead and lead developer for projects with Virgin Australia, Cororate Realestate Australia, Careers Australia, and a number of smaller initiatives."
+        "Tech lead and lead developer for projects with Virgin Australia, Corporate Realestate Australia, Careers Australia, and a number of smaller initiatives."
       ],
-      "summary": "JuniorCru was a web development consultancy primarily in the field of eCommerce and brochure ware websites.\nThe core tech stack was PHP with Wordpress, AngularJS, Less, AWS, MySQL, with Jira and Confluence for project management. \n",
+      "summary": "JuniorCru was a web development consultancy primarily in the field of eCommerce and brochure-ware websites.\nThe core tech stack was PHP with Wordpress, AngularJS, Less, AWS, MySQL, with Jira and Confluence for project management. \n",
       "url": "https://www.linkedin.com/company/juniorcru/"
     },
     {
