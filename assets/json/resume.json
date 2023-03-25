@@ -6,7 +6,7 @@
     "picture": "./assets/images/resume_image.jpeg",
     "email": "krose.development@gmail.com",
     "phone": "+49 17 665 126 596",
-    "summary": "My first computer used those 5 1/4' floppy disks. You know the ones that were actually bendy.\n\nOver the last 20 years of learning and professional work, I have had the pleasure to work with some amazing people, and I bring all that I have learnt into every new role.\n\nMost recently I have been working as a supervisor/manager and nothing has given me more fullfilment in my career than supporting those I work with and seeing them evolve. I was also part of the leadership team responsible for strategy, investment, and innovation, and driving forward the adoption of cloud and data platforms.\n\nAs a wise person I worked with once said, at the core all problems are people problems.\n\nI am a life long learner, both in technology and life, and recently became a certified scuba diving instructor!\n\nMy favourite flavour of ice-cream is pistachio.",
+    "summary": "Driven by a passion for technology that began with my first computer, equipped with 5 1/4' floppy disks (you know the ones that were actually bendy), I have spent the past 20 years honing my skills and expertise in the ever-evolving world of cloud and data platforms. My dedication to lifelong learning and continuous professional development has allowed me to collaborate with exceptional individuals across various industries, shaping my approach and expanding my capabilities with every new challenge.\n\nAs a supervisor and manager, I have found immense fulfillment in empowering those I work with, fostering their growth, and contributing to their success. As a key member of the leadership team, I have been instrumental in devising strategies, driving innovation, and facilitating the adoption of cutting-edge cloud and data solutions.\n\nAs a wise person I worked with once said, at the core all problems are people problems.\n\nI am a continious learner, both in technology and life, and recently became a certified scuba diving instructor!",
     "url": "",
     "location": {
       "countryCode": "DE",
@@ -23,7 +23,18 @@
   "work": [
     {
       "name": "Futurice",
-      "position": "Cloud and Data Platforms Expertise Lead ",
+      "position": "All Roles",
+      "startDate": "2021-01-31",
+      "endDate": "2022-01-10",
+      "highlights": [    
+      ],
+      "summary": "During my four years at Futurice, I was promoted several times, and held multiple concurrent roles, as seen below.",
+      "url": "https://www.linkedin.com/company/futurice/",
+      "location": "Germany"
+    },
+    {
+      "name": "Futurice",
+      "position": "Cloud and Data Platforms Expertise Lead",
       "startDate": "2021-01-31",
       "endDate": "2022-01-10",
       "highlights": [
@@ -42,15 +53,34 @@
       "startDate": "2021-01-01",
       "endDate": "2022-01-10",
       "highlights": [
-        "Used a data mesh approach to develop an architecture to aggregate 20 disparate data scources from on-premise, cloud storage, and streaming over the air sources to enable data analytics to feed insights to R&D, Sales, Engineering, and Marketing. A key focus was put on cost, security, and reliability.",
-        "Developed and ran a series of classes to upskill client technical engineers in cloud and data best practices.",
-        "Developed and ran a series of classes to upskill internal technologists in cloud and data best practices.",
-        "Supported 30 people across 6 cross functional teams of developers, designers, and data scientists as a cloud architect with projects ranging from tens to hundreds of millions of euros.",
-        "Developed an architecture for a digital onboard vehicle instruction manual.",
-        "Worked in a team documenting reusable cloud architecture components for internal project use.",
-        "Worked with client to bring a cultural shift towards cloud and data solutions in a primarily physical automotive company."
+        "Used a data mesh approach to develop an architecture to aggregate 20 disparate data scources from on-premise, cloud storage, and streaming over the air sources to enable data analytics to feed insights to R&D, Sales, Engineering, and Marketing. A key focus was put on cost, security, and reliability",
+        "Developed and ran a series of classes to upskill client technical engineers in cloud and data best practices",
+        "Developed and ran a series of classes to upskill internal technologists in cloud and data best practices",
+        "Supported 30 people across 6 cross functional teams of developers, designers, and data scientists as a cloud architect with projects ranging from tens to hundreds of millions of euros",
+        "Developed an architecture for a digital onboard vehicle instruction manual",
+        "Worked in a team documenting reusable cloud architecture components for internal project use",
+        "Worked with client to bring a cultural shift towards cloud and data solutions in a primarily physical automotive company"
       ],
       "summary": "As a senior cloud architect I was focused primarily in AWS, supporting both our internal initiatives as well as supporting our clients in their migration to cloud technologies, both at a technical level and at a cultural level.",
+      "url": "https://www.linkedin.com/company/futurice/",
+      "location": "Munich Area, Germany"
+    },
+    {
+      "name": "Futurice",
+      "position": "Technical Account Lead",
+      "startDate": "2020-01-01",
+      "endDate": "2022-01-10",
+      "highlights": [
+        "Setting of account OKR's in line with country and global OKR's",
+        "Oversaw up to 30 people working in six concurrent agile teams",
+        "Responsible for project budgeting, forecasting, burn downs, project health, and overall project delivery and success",
+        "Responsible for project discovery, requirements gathering, proposal writing, pitching, estimations, and contract negotiation",
+        "Participated in all project kickoffs, and remained as a technical cloud expert across all projects",
+        "First line of escalation for conflict resolution",
+        "Supported client initiatives for driving cultural change in the direction of innovation and emerging technologies", 
+        "Responsible for onboarding new project teams with a specific focus on account and security requirements and best practices"
+      ],
+      "summary": "I was the technical account lead for one of our major accounts with a leading automotive company. This role was focused on client relationship building, as well as supporting our teams on a technical level as well as a well-being level.",
       "url": "https://www.linkedin.com/company/futurice/",
       "location": "Munich Area, Germany"
     },
@@ -60,34 +90,15 @@
       "startDate": "2018-10-31",
       "endDate": "2022-01-10",
       "highlights": [
-        "Supervisor for 6 technologists and data scientists up to expert level, mentor for 3 technologists.",
-        "Supported supervisees in career path planning and short term and long term SMART goals.",
-        "Responsible for recommendations for career advancement of my own supervisees and part of the descision comittee for career level changes for all employees in Germany.",
-        "Applied servant leadership to support my supervisees on a daily basis, for advice, challenging ideas, and conflict resolution.",
-        "Responsible for early caring, well-being, stress management, and work saftey for my supervisees."
+        "Supervisor for 6 technologists and data scientists up to expert level, mentor for 3 technologists",
+        "Supported supervisees in career path planning and short term and long term SMART goals",
+        "Responsible for recommendations for career advancement of my own supervisees and part of the descision comittee for career level changes for all employees in Germany",
+        "Applied servant leadership to support my supervisees on a daily basis, for advice, challenging ideas, and conflict resolution",
+        "Responsible for early caring, well-being, stress management, and work saftey for my supervisees"
       ],
-      "summary": "As a supervisor at Futurice, a core part of my philosophy was to build trusting and caring relationships.\n\nI love feedback and am continually adapting and evolving my approach so as best to meet the needs of each of the individuals that I oversee. Being able to support my supervisees and see them evolve and progress in their careers has been one of the most fullfilling experiences I have had so far.",
+      "summary": "As a supervisor at Futurice, a core part of my philosophy was to build trusting and caring relationships.\n\nThis has developed through communications training with [GreenElephant](https://greenelephant.org/), internal training in non-violent communication, and taking inspiration from leaders such as Kim Scott (Radical Candor) and Brené Brown (Dare to Lead). I love feedback and am continually adapting and evolving my approach so as best to meet the needs of each of the individuals that I oversee. Being able to support my supervisees and see them evolve and progress in their careers has been one of the most fullfilling experiences I have had so far.",
       "url": "https://www.linkedin.com/company/futurice/",
       "location": "Munich, Bavaria, Germany"
-    },
-    {
-      "name": "Futurice",
-      "position": "Technical Account Lead",
-      "startDate": "2020-01-01",
-      "endDate": "2022-01-10",
-      "highlights": [
-        "Setting of account OKR's in line with country and global OKR's",
-        "Oversaw up to 30 people working in six concurrent agile teams.",
-        "Responsible for project budgeting, forecasting, burn downs, project health, and overall project delivery and success.",
-        "Responsible for project discovery, requirements gathering, proposal writing, pitching, estimations, and contract negotiation.",
-        "Participated in all project kickoffs, and remained as a technical cloud expert across all projects.",
-        "First line of escalation for conflict resolution.",
-        "Supported client initiatives for driving cultural change in the direction of innovation and emerging technologies.", 
-        "Responsible for onboarding new project teams with a specific focus on account and security requirements and best practices."
-      ],
-      "summary": "I was the technical account lead for one of our major accounts with a leading automotive company. This role was focused on client relationship building, as well as supporting our teams on a technical level as well as a well-being level.",
-      "url": "https://www.linkedin.com/company/futurice/",
-      "location": "Munich Area, Germany"
     },
     {
       "name": "Futurice",
@@ -95,14 +106,14 @@
       "startDate": "2018-02-28",
       "endDate": "2019-10-31",
       "highlights": [
-        "Developed the core backend system based on the Hexagonal paradigm and a microservice architecture.",
-        "Developed the message queue microservices for doing event driven processing.",
-        "Wrote re-usable components for all parts of the system.",
-        "Wrote and deployed docker files for many of the services.",
-        "Primary point of contact for the client PO in collaboration with our internal Scrum Master.",
-        "Facilitated group estimation using party poker.",
-        "Facilitated group discovery and creation of development tasks.",
-        "Configured Jira to fit our exact project requirements in a cross functional team, with multiple boards and multiple board types, across three horizons of delivery (sprints, short term, long term).",
+        "Developed the core backend system based on the Hexagonal paradigm and a microservice architecture",
+        "Developed the message queue microservices for doing event driven processing",
+        "Wrote re-usable components for all parts of the system",
+        "Wrote and deployed docker files for many of the services",
+        "Primary point of contact for the client PO in collaboration with our internal Scrum Master",
+        "Facilitated group estimation using party poker",
+        "Facilitated group discovery and creation of development tasks",
+        "Configured Jira to fit our exact project requirements in a cross functional team, with multiple boards and multiple board types, across three horizons of delivery (sprints, short term, long term)",
         "Coached the developer below me over 6 months to take over my role"
       ],
       "summary": "I was lead developer for a multi-year multi-million euro project for a leading automotive company.\nThe core technology stack was React and Typescript on the front end, GraphQL for the front end API layer, REST for the backend API layer, NodeJs for the core backend services, and Clojure for some of the additional microservices used to load Java data analytics libraries. Testing was done with Jest and Cypress, and the entire system was deployed using Docker and Openshift (RedHat K8s).",
@@ -131,7 +142,7 @@
       "endDate": "2016-10-31",
       "highlights": [
         "Developed the front end for a new video conferencing software using AngularJS, Flash and Twitter Bootstrap",
-        "Supported the migration from the legacy Cold Fusion tech stack into a modern Java based micro-services architecture hosted on AWS."
+        "Supported the migration from the legacy Cold Fusion tech stack into a modern Java based micro-services architecture hosted on AWS"
       ],
       "summary": "Revelian developed solutions to assist in talent aquisition, with a focus on psychometrics. These came in the form of assessments, quiz's, skill checklists, and interactive games.",
       "url": "https://www.linkedin.com/company/criteria-corp/",
@@ -143,9 +154,9 @@
       "startDate": "2013-10-31",
       "endDate": "2014-06-30",
       "highlights": [
-        "Responsible for requirements gathering, proposal writing, estimation, project management and delivery.",
+        "Responsible for requirements gathering, proposal writing, estimation, project management and delivery",
         "Responsible for full project lifecycle. Development, testing, deployment, and maintenance",
-        "Tech lead and lead developer for projects with Virgin Australia, Corporate Realestate Australia, Careers Australia, and a number of smaller initiatives."
+        "Tech lead and lead developer for projects with Virgin Australia, Corporate Realestate Australia, Careers Australia, and a number of smaller initiatives"
       ],
       "summary": "JuniorCru was a web development consultancy primarily in the field of eCommerce and brochure-ware websites.\nThe core tech stack was PHP with Wordpress, AngularJS, Less, AWS, MySQL, with Jira and Confluence for project management. \n",
       "url": "https://www.linkedin.com/company/juniorcru/"
@@ -289,7 +300,7 @@
     },
     {
       "fluency": "Limited Working",
-      "language": "German - Limited"
+      "language": "German - Basic"
     }
   ],
   "interests": [
