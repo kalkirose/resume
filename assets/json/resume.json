@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Kalki Rose",
-    "label": "Cloud and Data Expert | Technical Account Lead | Supervisor",
+    "label": "Cloud and Data Expert | Technical Account Lead | Engineering Manager",
     "picture": "./assets/images/resume_image.jpeg",
     "email": "krose.development@gmail.com",
     "phone": "+49 17 665 126 596",
@@ -34,36 +34,22 @@
     },
     {
       "name": "Futurice",
-      "position": "Cloud and Data Platforms Expertise Lead",
-      "startDate": "2021-01-31",
+      "position": "Cloud and Data Platforms Expertise Lead | Cloud Architect",
+      "startDate": "2020-01-31",
       "endDate": "2022-01-10",
       "highlights": [
-        "Co-development of the internal cloud and data playbook.",
-        "Co-development of the internal center for learning cloud and data certification program.",
+        "Co-development of the internal cloud and data playbook used by development teams and sales to simplyfy the approach to project sale and delivery",
+        "Co-development of the internal center for learning cloud and data certification program which was used to skill up hundreds of technologists across the company",
         "Market Research, Gap Analysis, and Risk Analysis for emerging technologies leading to strategic investment in go-to-market products and services, internal upskilling, and recruitment strategy.",
-        "Part of the leadership team supporting the company re-organisation from a matrix structure to something similar to Holacracy"
+        "Directly supported the company re-rganisation from matrix to circles leading to a smooth transition and minimal disruption to workflow",
+        "Used a data mesh approach to develop an architecture to aggregate 20 disparate data scources from on-premise, cloud storage, and streaming over the air sources to enable data analytics to feed insights to R&D, Sales, Engineering, and Marketing. A key focus was put on cost, security, and reliability",
+        "Developed and ran a series of classes to upskill client technical engineers in cloud and data best practices allowing the client to take on more responsibility for development and ongion maintenance internally, reducing their overall costs",
+        "Created an architecture for a digital onboard vehicle instruction manual which then gained investment to be developed and deployed in vehicles",
+        "Co-developed an internal manual showcasing common cloud architecture patterns reducing the need for projects to re-invent the wheel each time",
       ],
-      "summary": "Futurice had five pillars that were the foundation of our company structure, as well as our go-to-market strategy. I was the lead for the Cloud and Data Platforms pillar.",
+      "summary": "Futurice had five go-to-market pillars. I was the lead for the Cloud and Data Platforms pillar.",
       "url": "https://www.linkedin.com/company/futurice/",
       "location": "Germany"
-    },
-    {
-      "name": "Futurice",
-      "position": "Senior Cloud Architect",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-10",
-      "highlights": [
-        "Used a data mesh approach to develop an architecture to aggregate 20 disparate data scources from on-premise, cloud storage, and streaming over the air sources to enable data analytics to feed insights to R&D, Sales, Engineering, and Marketing. A key focus was put on cost, security, and reliability",
-        "Developed and ran a series of classes to upskill client technical engineers in cloud and data best practices",
-        "Developed and ran a series of classes to upskill internal technologists in cloud and data best practices",
-        "Supported 30 people across 6 cross functional teams of developers, designers, and data scientists as a cloud architect with projects ranging from tens to hundreds of millions of euros",
-        "Developed an architecture for a digital onboard vehicle instruction manual",
-        "Worked in a team documenting reusable cloud architecture components for internal project use",
-        "Worked with client to bring a cultural shift towards cloud and data solutions in a primarily physical automotive company"
-      ],
-      "summary": "As a senior cloud architect I was focused primarily in AWS, supporting both our internal initiatives as well as supporting our clients in their migration to cloud technologies, both at a technical level and at a cultural level.",
-      "url": "https://www.linkedin.com/company/futurice/",
-      "location": "Munich Area, Germany"
     },
     {
       "name": "Futurice",
@@ -71,32 +57,29 @@
       "startDate": "2020-01-01",
       "endDate": "2022-01-10",
       "highlights": [
-        "Setting of account OKR's in line with country and global OKR's",
-        "Oversaw up to 30 people working in six concurrent agile teams",
-        "Responsible for project budgeting, forecasting, burn downs, project health, and overall project delivery and success",
-        "Responsible for project discovery, requirements gathering, proposal writing, pitching, estimations, and contract negotiation",
-        "Participated in all project kickoffs, and remained as a technical cloud expert across all projects",
-        "First line of escalation for conflict resolution",
-        "Supported client initiatives for driving cultural change in the direction of innovation and emerging technologies", 
-        "Responsible for onboarding new project teams with a specific focus on account and security requirements and best practices"
+        "Supported 30 people across 6 cross functional teams of developers, designers, and data scientists as a cloud architect. This built trust with out teams and the client leading to project investments in the hundreds of millions of dollars",
+        "Facilitated creation of OKR's which ensured that the account and all the projects were focused on the right goals and in line with the national and global company OKR's",
+        "Facilitated conflict escalation that resulted in several major issues being resolved to everyones satisfaction without requiering further escalation",
+        "Acted as a role model for cultural change within the client organisation leading to several new projects starting within the areas of innovation and emerging technologies", 
+        "Developed onboarding materials and ran onboarding sessions for all projects and people in the account, enabling the teams to start with a core understanding of the client environments, contact peoples, and procedures"
       ],
-      "summary": "I was the technical account lead for one of our major accounts with a leading automotive company. This role was focused on client relationship building, as well as supporting our teams on a technical level as well as a well-being level.",
+      "summary": "I was the technical account lead for one of our major accounts with a leading automotive company. This role was focused on client relationship building, as well as supporting our teams on a technical level as well as a well-being level. I was responsible for project budgeting, forecasting, burn downs, project health, and overall project delivery and success, as well as project discovery, requirements gathering, proposal writing, pitching, estimations, and contract negotiation",
       "url": "https://www.linkedin.com/company/futurice/",
       "location": "Munich Area, Germany"
     },
     {
       "name": "Futurice",
-      "position": "Supervisor | Mentor | Coach",
+      "position": "Engineering Manager | Supervisor",
       "startDate": "2018-10-31",
       "endDate": "2022-01-10",
       "highlights": [
-        "Supervisor for 6 technologists and data scientists up to expert level, mentor for 3 technologists",
-        "Supported supervisees in career path planning and short term and long term SMART goals",
-        "Responsible for recommendations for career advancement of my own supervisees and part of the decision committee for career level changes for all employees in Germany",
-        "Applied servant leadership to support my supervisees on a daily basis, for advice, challenging ideas, and conflict resolution",
-        "Responsible for early caring, well-being, stress management, and work safety for my supervisees"
+        "Supported 6 direct report technologists and data scientists up to expert level, mentor for 3 technologists, whose feedback indicated that I was an enthusiastic and empathetic leader who supported them in achieving their goals",
+        "Supported in career path planning using SMART goals leading to engaged and enthusiastic people",
+        "Gave recommendations leading to career advancement and salary increase for my people as a reflection of their great work",
+        "Applied servant leadership on a daily basis, for advice, challenging ideas, and conflict resolution,  which created an open and safe environment to discuss any topics",
+        "Applied early caring, well-being, and stress management, which resulted in engaged and focused people avoiding burnout"
       ],
-      "summary": "As a supervisor at Futurice, a core part of my philosophy was to build trusting and caring relationships.\n\nThis has developed through communications training with [GreenElephant](https://greenelephant.org/), internal training in non-violent communication, and taking inspiration from leaders such as Kim Scott (Radical Candor) and Brené Brown (Dare to Lead). I love feedback and am continually adapting and evolving my approach so as best to meet the needs of each of the individuals that I oversee. Being able to support my supervisees and see them evolve and progress in their careers has been one of the most fulfilling experiences I have had so far.",
+      "summary": "As an engineering manager (supervisor) at Futurice, a core part of my philosophy was to build trusting and caring relationships.\n\nThis has developed through communications training with [GreenElephant](https://greenelephant.org/), internal training in non-violent communication, and taking inspiration from leaders such as Kim Scott (Radical Candor) and Brené Brown (Dare to Lead). I love feedback and am continually adapting and evolving my approach so as best to meet the needs of each of the individuals that I oversee. Being able to support my supervisees and see them evolve and progress in their careers has been one of the most fulfilling experiences I have had so far.",
       "url": "https://www.linkedin.com/company/futurice/",
       "location": "Munich, Bavaria, Germany"
     },
@@ -106,15 +89,13 @@
       "startDate": "2018-02-28",
       "endDate": "2019-10-31",
       "highlights": [
-        "Developed the core backend system based on the Hexagonal paradigm and a microservice architecture",
-        "Developed the message queue microservices for doing event driven processing",
-        "Wrote re-usable components for all parts of the system",
-        "Wrote and deployed docker files for many of the services",
-        "Primary point of contact for the client PO in collaboration with our internal Scrum Master",
-        "Facilitated group estimation using party poker",
-        "Facilitated group discovery and creation of development tasks",
-        "Configured Jira to fit our exact project requirements in a cross functional team, with multiple boards and multiple board types, across three horizons of delivery (sprints, short term, long term)",
-        "Coached the developer below me over 6 months to take over my role"
+        "Developed the core backend system based on the Hexagonal paradigm and a microservice architecture which decoupled services enabling best testing practices to be applied. This resulted in confidence for the system, as well as a significant reduction in development time for features added years after the initial project had started",
+        "Implemented a message queue microservice using rabbit-mq enabling event driven processing",
+        "Wrote and deployed docker files used in conjunction with Openshift for CI/CD, testing, deployment, and system management",
+        "As the primary technical contact for the client I built a trusting and open relationship that lead to continued investment at the project level, and increased investment resulting in several new projects",
+        "Lead the team in task discovery, documentation, and estimation, enabling the junior developers to feel ownership for the sprint, gain hands on experience, and progress in their roles",
+        "Configured Jira to fit our exact project requirements in a cross functional team, with multiple boards and multiple board types, across three horizons of delivery (sprints, short term, long term) enabling a complex project team and process to work efficently in Jira",
+        "Caoched a developer in the team for six months leading to her taking over my role as I moved out of the project"
       ],
       "summary": "I was lead developer for a multi-year multi-million euro project for a leading automotive company.\nThe core technology stack was React and Typescript on the front end, GraphQL for the front end API layer, REST for the backend API layer, NodeJs for the core backend services, and Clojure for some of the additional microservices used to load Java data analytics libraries. Testing was done with Jest and Cypress, and the entire system was deployed using Docker and Openshift (RedHat K8s).",
       "url": "https://www.linkedin.com/company/futurice/",
